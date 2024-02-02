@@ -1,0 +1,86 @@
+*{
+  margin: 0;
+  padding: 0;
+  align-items: center;
+}
+body{
+  padding-top: 30px;
+}
+.t_1{
+  margin: auto;
+  background-color:#806E9E;
+  border-radius: 20px;
+  padding: 40px 70px; 
+  text-align: center;
+}
+.box{
+  padding: 20px 10px;
+}
+.btn{
+  margin-top: 20px;
+  padding: 10px 20px;
+  border: none;
+}
+.btn:hover{
+  transition: .3s;
+  background-color:black;
+  color: white;
+}
+.btn_2{
+  border: none;
+  padding: 10px 20px;
+}
+.btn_2:hover{
+  background-color: #806E9E;
+  color: white;
+  transition: .3s;
+}
+.btn_3{
+  border: none;
+  padding:5px 10px ;
+  margin-top: 10px;
+  margin-left: 10px;
+  background-color: #B5AFEF;
+}
+.btn_3:hover{
+  transition: .3s;
+  background-color: black;
+  color: white;
+}
+.box2{
+  margin-top: 10px;
+}
+.t_2{
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+  margin-left: 300px;
+  margin-right: 300px;
+  padding: 20px 40px;
+  background-color:#B5AFEF;
+}
+.tb_2{
+  margin: auto;
+  margin-top: 60px;
+}
+.c_box{
+  height: 30px;
+  width: 30px;
+}
+.input_item{
+  margin-top: 10px;
+}
+.btn_4{
+  padding: 2px 20px;
+  margin-left: 10px;
+  margin-top: 3px;
+  border: none;
+  background-color: #B5AFEF;
+}
+.btn_4:hover{
+  background-color: black;
+  color: white;
+  transition: .3s;
+}
+
+
